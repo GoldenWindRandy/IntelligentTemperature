@@ -1,0 +1,14 @@
+<svg width="26.000000" height="26.000000" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip5_7233">
+			<rect id="Linear / Essentional, UI / Waterdrop" width="26.000000" height="26.000000" fill="white"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip5_7233)">
+		<path id="Vector" d="M13.3367 21.6667C17.4585 21.6667 20.8 18.2494 20.8 14.0338L20.8 13.8044C20.8 9.80774 18.4353 6.20837 14.8171 4.698C13.6523 4.21179 12.3477 4.21179 11.1829 4.698C7.5647 6.20837 5.19995 9.80774 5.19995 13.8044L5.19995 14.0338C5.19995 18.2494 8.54126 21.6667 12.6633 21.6667L13.3367 21.6667Z" stroke="#FFFFFF"/>
+		<path id="Vector" d="M9.19946 11.8939C9.74951 10.1559 10.9465 8.74304 12.4678 8.03955" stroke="#FFFFFF" stroke-linecap="round"/>
+	</g>
+</svg>

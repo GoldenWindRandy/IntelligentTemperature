@@ -1,0 +1,15 @@
+<svg width="26.000000" height="26.000000" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip5_7218">
+			<rect id="Linear / Weather / Wind" width="26.000000" height="26.000000" fill="white"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip5_7218)">
+		<path id="Vector" d="M5.19995 9.53345L10.8333 9.53345C12.0298 9.53345 13 8.56335 13 7.3667C13 6.17017 12.0298 5.20007 10.8333 5.20007C9.63672 5.20007 8.6665 6.17017 8.6665 7.3667L8.6665 7.67627" stroke="#FFFFFF" stroke-linecap="round"/>
+		<path id="Vector" d="M6.06665 14.7334L18.6333 14.7334C20.3086 14.7334 21.6667 16.0914 21.6667 17.7667C21.6667 19.442 20.3086 20.8 18.6333 20.8C16.958 20.8 15.6001 19.442 15.6001 17.7667L15.6001 17.3334" stroke="#FFFFFF" stroke-linecap="round"/>
+		<path id="Vector" d="M4.33325 12.1334L18.6333 12.1334C20.3086 12.1334 21.6665 10.7754 21.6665 9.1001C21.6665 7.4248 20.3086 6.06677 18.6333 6.06677C16.958 6.06677 15.5999 7.4248 15.5999 9.1001L15.5999 9.53345" stroke="#FFFFFF" stroke-linecap="round"/>
+	</g>
+</svg>
